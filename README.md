@@ -1,53 +1,72 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>README File</title>
-</head>
-<body>
+<h1>🌐 HTML Frontend Project</h1>
+
+<p>Welcome to my GitHub repository.</p>
+
+<p>This project is created using HTML and CSS.</p>
+
+<hr>
+
+<h2>📌 About Project</h2>
+
+<p>This is a simple frontend web project designed for practice and learning purposes.</p>
+
+<hr>
+
+<h2>🚀 Features</h2>
+
+<ul>
+  <li>Responsive Website</li>
+  <li>Clean UI Design</li>
+  <li>Simple Navigation</li>
+  <li>Beginner Friendly</li>
+</ul>
+
+<hr>
+
+<h2>🛠️ Technologies Used</h2>
+
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+</ul>
+
+<hr>
+
+<h2>📂 Folder Structure</h2>
 
 <pre>
-# Paytm Clone Frontend
-
-This project is a simple Paytm Home Page Clone created using HTML and CSS.
-
-## Features
-- Responsive Navbar
-- Hero Section
-- Recharge & Bill Payments
-- Footer Section
-- Simple UI Design
-
-## Technologies Used
-- HTML5
-- CSS3
-
-## Folder Structure
-
 project-folder/
 │
 ├── index.html
 ├── style.css
-└── images/
-
-## How to Run
-1. Download or Clone the project
-2. Open the folder
-3. Double click on index.html
-
-## GitHub Upload Steps
-
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin YOUR_GITHUB_REPO_LINK
-git push -u origin main
-
-## Author
-Madhavi
+├── images/
+└── README.md
 </pre>
 
-</body>
-</html>
+<hr>
+
+<h2>▶️ How to Use</h2>
+
+<ol>
+  <li>Clone the repository</li>
+  <li>Open project folder</li>
+  <li>Run index.html in browser</li>
+</ol>
+
+<hr>
+
+<h2>📷 Project Screenshot</h2>
+
+<p>Add your screenshot here.</p>
+
+<hr>
+
+<h2>🔗 Live Demo</h2>
+
+<p>Add your live project link here.</p>
+
+<hr>
+
+<h2>👩‍💻 Author</h2>
+
+<p>Madhavi</p>
