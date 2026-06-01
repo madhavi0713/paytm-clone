@@ -69,5 +69,5 @@ project-folder/
 
 <h2>👩‍💻 Author</h2>
 
-<p>Madavi</p>
+<p>Madhavi</p>
 
